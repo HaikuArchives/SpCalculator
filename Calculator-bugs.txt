@@ -1,0 +1,6 @@
+Bugs in 1.1
+1) In binary mode, only lowest 52 bits are shown.
+   No solution until window frame enlarged.
+   Workaround: Convert to hexadecimal and exercise your brain.
+2) sorry, no help in help menu. Maybe in next release.
+   Workaround: Try every function and discover how it works.

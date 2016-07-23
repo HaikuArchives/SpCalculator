@@ -1,0 +1,12 @@
+Suggested after release of...
+
+Version 1.0
+1) Binary mode. and(or/not/xor/...
+2) Use enter at keyboard for =
+3) Deskbar replicant
+
+Version 1.1
+1) Localization
+
+Version 1.5
+1) Adjust SpStringView object height.
